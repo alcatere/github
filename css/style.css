@@ -3,3 +3,16 @@ body{
     text-align:center;
     font-family: monospace;
 }
+
+
+#container{
+    border-style: solid;
+    border-color: grey;
+    padding:5px;
+    width:80%;
+    margin-left:10%;
+}
+
+#title{
+    font-size: 20px;
+}
