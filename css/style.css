@@ -8,11 +8,19 @@ body{
 #container{
     border-style: solid;
     border-color: grey;
-    padding:5px;
+    padding:0px;
     width:80%;
     margin-left:10%;
 }
 
 #title{
-    font-size: 20px;
+    font-size: 45px;
+}
+
+#cabecera{
+    
+    padding: 0px;
+    background-color: darkblue;
+    color: whitesmoke;
+    font-size: 25px;
 }
