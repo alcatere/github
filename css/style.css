@@ -39,3 +39,8 @@ body{
     -moz-box-shadow: 6px 7px 15px 0px rgba(0,0,0,0.5);
     box-shadow: 6px 7px 15px 0px rgba(0,0,0,0.5);
 }
+
+#ss{
+    background-color: black;
+    color:white;
+}
