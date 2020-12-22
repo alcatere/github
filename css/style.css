@@ -19,10 +19,10 @@ body{
 
 #cabecera{
     
-    padding: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
     background-color: darkblue;
-
-    color: blue;
-
+    color: whitesmoke;
     font-size: 25px;
 }
